@@ -42,6 +42,7 @@ header {
   background-color: #ccc;
 }
 
+
 /* http://gridifier.web-dev.tools/#xs,4,0,0,0;s,4,25,0,0;m,4,38,1,1;l,4,60,1,1 */
 
 .grid {
@@ -142,6 +143,11 @@ header {
 }
 
 @media only screen and (min-width: 25em) {
+
+nav li {
+  display: inline;
+}
+
 
 .unit-s-hidden {
   display: none;
