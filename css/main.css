@@ -71,8 +71,12 @@ h3 {
   background-color: #eee;
 }
 
-footer {
+.grey {
   background-color: #ddd;
+}
+
+.img {
+  width: auto;
 }
 
 
