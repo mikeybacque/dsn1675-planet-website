@@ -24,6 +24,12 @@ nav ol {
 
 nav a {
   text-decoration: none;
+  color: #0066FF;
+}
+
+a:hover {
+    background-color: #0066FF;
+    color: #fff;
 }
 
 h1 {
@@ -44,13 +50,24 @@ header {
 
 h3 {
   margin: 0%;
-  text-align: center;
 }
 
 .moons {
   text-align: left;
 }
 
+.deck {
+  background-color: #eee;
+  text-align: center;
+}
+
+.deck p {
+  margin: 0;
+}
+
+footer {
+  background-color: #ddd;
+}
 
 @media only screen and (min-width: 25em) {
 
