@@ -22,7 +22,7 @@ nav ol {
   padding: 0%;
 }
 
-nav a {
+a {
   text-decoration: none;
   color: #0066FF;
   display: block;
@@ -77,6 +77,18 @@ h3 {
 
 .img {
   width: auto;
+}
+
+footer {
+  background-color: #ddd;
+}
+
+footer li {
+  display: inline;
+}
+
+footer a {
+  display: inline;
 }
 
 
